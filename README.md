@@ -6,7 +6,7 @@ It showcases my skills, projects, and contact details as a **Java Full Stack Dev
 ---
 
 ## 🚀 Live Demo
-🔗 [View My Portfolio](https://sai-oggu.github.io/portfolio-/)
+🔗 [View My Portfolio](https://sai-oggu.github.io/myPortfolio/)
 
 ---
 
